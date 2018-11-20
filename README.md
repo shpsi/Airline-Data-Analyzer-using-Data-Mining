@@ -1,16 +1,6 @@
 Predicting Airline Delays - Fly from SFO or OAK?
 ===================
 
-Team
-<br>
-Divya M
-<br>
-Eunkwang J
-<br>
-Ryan J
-<br>
-Julia K
-<br>
 
 <b>Problem Statement</b>
 Simplified version: <i>"Given a destination and a date range, which is a better airport to fly out from - SFO or OAK?"</i>
